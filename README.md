@@ -1,7 +1,7 @@
 # Peek-A-Boo
 ## -- A Video Conferencing WebApp.
 
-The Peek-A-Boo Video Conferencing app is built as a clone version for the Peek-A-Boo android App.
+The Peek-A-Boo Video Conferencing app is built as a web clone version for the Peek-A-Boo android App.
 mo
 ## [Live demo](https://peek-a-boo.pavanaditya.com "Peek-a-boo")
 
