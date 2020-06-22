@@ -2,7 +2,7 @@
 ## -- A Video Conferencing WebApp.
 
 The Peek-A-Boo Video Conferencing app is built as a web clone version for the Peek-A-Boo android App.
-mo
+
 ## [Live demo](https://peek-a-boo.pavanaditya.com "Peek-a-boo")
 
 This is Video Conference Calling app built using React Native and [ConnectyCube](https://connectycube.com) Open Source Apis.
