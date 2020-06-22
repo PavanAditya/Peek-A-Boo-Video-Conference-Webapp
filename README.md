@@ -28,10 +28,7 @@ The sample provides 2 mods:
 ## Screenshots (Mobile app)
 
 <p><img alt="Video Chat, Login Screen" src="assets/screenshots/login.png" width="200" /></p>
-<p><img alt="Video chat, select users" src="assets/screenshots/users.png" width="200" /></p>
-
 <p><img alt="Video chat Permissions" src="assets/screenshots/permission.png" width="200" /></p>
-<p><img alt="Video chat Calling" src="assets/screenshots/calling.png" width="200" /></p>
 
 ## Build your own VideoChat app
 
